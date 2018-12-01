@@ -1,0 +1,17 @@
+:host {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.list {
+    cursor: pointer;
+    list-style: none;
+    text-align: center;
+}
+
+.list > li:hover {
+    font-weight: bold;
+}
+
+div {
+    text-align: center;
+}
